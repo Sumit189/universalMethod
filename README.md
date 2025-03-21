@@ -229,3 +229,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 MIT
+
+## Support
+
+If you find this package useful, consider buying me a coffee:
+<p>
+  <a href="https://buymeacoffee.com/sumit189">
+    <img src="./assets/black-button.png" alt="Buy Me A Coffee" width="300"/>
+  </a>
+</p>
